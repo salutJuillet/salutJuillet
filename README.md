@@ -1,5 +1,7 @@
 <p align="center">
+    <!--
 	<a href="https://github.com/salutJuillet"><img src="https://avatars.githubusercontent.com/u/103616316?v=4" width="200px" height="200px" align="left" /></a>
+    -->
 
   # :sparkles:Juillet:sparkles:  
 
